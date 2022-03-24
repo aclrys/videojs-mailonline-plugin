@@ -326,7 +326,7 @@ Fired when the ad has finished successfully, by user interaction, or was termina
 ## Running the plugin
 If you want to run the plugin you need to clone the repo into your local environment
 ```
-git clone https://github.com/prebid/videojs-mailonline-plugin.git
+git clone https://github.com/aclrys/videojs-mailonline-plugin.git
 ```
 and install the dependencies
 
